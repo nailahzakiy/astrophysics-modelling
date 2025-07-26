@@ -36,3 +36,41 @@ astrophysics-modelling/
 │   └── integrators.py
 ├── README.md
 └── requirements.txt
+```
+##📌 Dependencies
+You'll need:
+```bash
+numpy
+matplotlib
+scipy
+sympy
+scikit-learn
+opencv-python   # optional for visualization
+```
+
+Install with:
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## 💡 Roadmap
+
+- [x] **Lane-Emden equation solver** (for different polytropic indices)  
+- [ ] **2D/3D visualizations** of stellar interiors  
+- [ ] **Integration with real data** from missions (Kepler, Gaia)  
+- [ ] **Predictive models** for stellar classification  
+- [ ] **Interfacing with OpenCV** for scientific illustrations
+
+---
+
+##📖 License
+MIT License — feel free to use and adapt.
+
+---
+##🌠 Creator
+
+Made with 💫 by nailahzakiy — “for those who dream beyond the stars.”
+
+---
