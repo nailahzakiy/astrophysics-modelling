@@ -65,11 +65,11 @@ pip install -r requirements.txt
 
 ---
 
-##📖 License
+## 📖 License
 MIT License — feel free to use and adapt.
 
 ---
-##🌠 Creator
+## 🌠 Creator
 
 Made with 💫 by nailahzakiy — “for those who dream beyond the stars.”
 
