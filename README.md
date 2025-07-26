@@ -1,6 +1,6 @@
 # 🌌 Astrophysics Modelling
 
-Welcome to **Astrophysics Modelling** — a personal playground where I explore the structure and behavior of celestial objects using code 🪐✨
+Welcome to **Astrophysics Modelling** , a personal playground where I explore the structure and behavior of celestial objects using code 🪐✨
 
 This repository includes:
 - 🔭 Theoretical simulations using the **Lane-Emden equation** and **stellar structure models**
