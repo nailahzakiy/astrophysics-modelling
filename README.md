@@ -3,7 +3,7 @@
 Welcome to **Astrophysics Modelling** , a personal playground where I explore the structure and behavior of celestial objects using code 🪐✨
 
 This repository includes:
-- 🔭 Theoretical simulations using the **Lane-Emden equation** and **stellar structure models**
+- 🔭 Theoretical simulations
 - 🧠 Applications of **Machine Learning** in astrophysics
 - 📊 Data visualization with **Matplotlib**, **Plotly**, and more
 - 🧮 Numerical modeling with **NumPy**, **SciPy**, and **SymPy**
@@ -27,13 +27,18 @@ Understanding stars from first principles is not only beautiful, but also empowe
 astrophysics-modelling/
 ├── lane_emden/
 │   ├── solver.py
-│   └── visualizations/
-├── ml_applications/
-│   ├── star_classifier.ipynb
-├── datasets/
-│   └── kepler_data.csv
-├── utils/
-│   └── integrators.py
+│   └── runge-kutta.py
+├── spectrum_visualization/
+│   ├── Figure-1.png
+│   └── xp_sampled_5853.py
+├── Hertzprung-Russel_Diagram
+|   ├── data
+|      └──  gaia_hr_data.csv
+│   ├── Hertzprung-Russel.png
+|   ├── import_from_gaia.py
+|   ├── plot_hr_diagram.py
+|   ├── README.md
+│   └── requirement.txt
 ├── README.md
 └── requirements.txt
 ```
