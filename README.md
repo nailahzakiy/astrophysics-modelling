@@ -33,7 +33,7 @@ astrophysics-modelling/
 │   └── xp_sampled_5853.py
 ├── Hertzprung-Russel_Diagram
 |   ├── data
-|      └──  gaia_hr_data.csv
+|   |   └──  gaia_hr_data.csv
 │   ├── Hertzprung-Russel.png
 |   ├── import_from_gaia.py
 |   ├── plot_hr_diagram.py
