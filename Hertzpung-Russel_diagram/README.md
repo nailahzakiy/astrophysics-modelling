@@ -1,6 +1,6 @@
 # Hertzsprung–Russell Diagram Project ⭐
 
-This project visualizes the Hertzsprung–Russell (HR) diagram using real or simulated stellar data. It classifies stars based on their luminosity and temperature, revealing stellar evolution stages like main sequence, giants, and white dwarfs.
+This project visualizes the Hertzsprung–Russell (HR) diagram using real stellar data from Gaia DR3. It classifies stars based on their luminosity and temperature, revealing stellar evolution stages like main sequence, giants, and white dwarfs.
 
 ## 🛠 Requirements
 - Python 3.9+
